@@ -4,6 +4,9 @@ seaborn
 matplotlib
 scikit-learn
 Flask
+catboost
+xgboost
+dill
 # the hyphen e. will run the setup.py file automatically
 # and it will install all the packages in the setup.py file
 -e .

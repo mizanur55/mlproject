@@ -1,0 +1,110 @@
+{
+  "build": "py38haa244fe_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "C:\\Users\\mizan\\anaconda3\\pkgs\\tensorboard-data-server-0.7.0-py38haa244fe_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/METADATA",
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/RECORD",
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/WHEEL",
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/tensorboard_data_server/__init__.py",
+    "Lib/site-packages/tensorboard_data_server/__pycache__/__init__.cpython-38.pyc",
+    ".nonadmin"
+  ],
+  "fn": "tensorboard-data-server-0.7.0-py38haa244fe_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\mizan\\anaconda3\\pkgs\\tensorboard-data-server-0.7.0-py38haa244fe_0",
+    "type": 1
+  },
+  "md5": "279de8051ebfb02b98432a50cb84407d",
+  "name": "tensorboard-data-server",
+  "package_tarball_full_path": "C:\\Users\\mizan\\anaconda3\\pkgs\\tensorboard-data-server-0.7.0-py38haa244fe_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "49a2cb2dfff2966f037f213ed6363747974ffd6e40b49fde58127b21d1707e47",
+        "sha256_in_prefix": "49a2cb2dfff2966f037f213ed6363747974ffd6e40b49fde58127b21d1707e47",
+        "size_in_bytes": 1154
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a58168e42b090b84cd5427460505f370edd2d1d80d5c0d9be77d59ec67e6d5ac",
+        "sha256_in_prefix": "a58168e42b090b84cd5427460505f370edd2d1d80d5c0d9be77d59ec67e6d5ac",
+        "size_in_bytes": 842
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b65a70b7e7a39887fc4e90bfe13f39201506f6bfea45ae128d749fce84fc801d",
+        "sha256_in_prefix": "b65a70b7e7a39887fc4e90bfe13f39201506f6bfea45ae128d749fce84fc801d",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server-0.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c5515f6aae4129ae4cce6731d57e365051d8f2f1cae8a5a6ba35697395651e00",
+        "sha256_in_prefix": "c5515f6aae4129ae4cce6731d57e365051d8f2f1cae8a5a6ba35697395651e00",
+        "size_in_bytes": 24
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ad1353b6aaeea19d03899746d0fcf39f815009835de4ca9643ecd29c62abe41e",
+        "sha256_in_prefix": "ad1353b6aaeea19d03899746d0fcf39f815009835de4ca9643ecd29c62abe41e",
+        "size_in_bytes": 1250
+      },
+      {
+        "_path": "Lib/site-packages/tensorboard_data_server/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "20f2f9cf30457ef6d986b7a2ad3d8346b9cf3a13e576b63b12dbf4962832ccaf",
+        "sha256_in_prefix": "20f2f9cf30457ef6d986b7a2ad3d8346b9cf3a13e576b63b12dbf4962832ccaf",
+        "size_in_bytes": 650
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0ce68c5b55e256ccad9cb7749dc27cbe66ff9c9412e42ffa71a88be4370538d5",
+  "size": 17075,
+  "subdir": "win-64",
+  "timestamp": 1676292219497,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/tensorboard-data-server-0.7.0-py38haa244fe_0.conda",
+  "version": "0.7.0"
+}
